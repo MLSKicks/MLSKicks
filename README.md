@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MLSKicks
-- 👀 I’m interested in Mechatronic Engineering, and Computer Science.
-- 🌱 I’m currently learning Python, and Web Development.
-- 💞️ I’m looking to collaborate on anything I'm bored.
-- 📫 How to reach me I don't even know myself.
+- 👀 I’m currently studying Aerospace Systems, and Mechatronic, Engineering.
+- 🌱 Currently building skills for Web, AI, and Control Systems.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 Take a look at my [portfolio website](mlsimmonds.com).
 
 <!---
 MLSKicks/MLSKicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
